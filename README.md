@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">Concept artist, Illustrator and Tattoo artist recently arrived at developement world.</h3>
+<h3 align="center">Concept artist, Illustrator and tattoo artist recently arrived at developement world.</h3>
 
-- 🔭 I’m currently working on **learning the basics.**
+- 🔭 I’m currently working on **learning as much as I can.**
 
 - 🌱 I’m currently learning **C, HTML, CSS, Angular, MySQL, TypeSrcipt, JavaScript and Python**
 
-- 🤝 I’m looking for help with **searching good sources of information about developement.**
+- 🤝 I’m looking for help with **searching good sources of information about developement and technologies.**
 
 - 💬 Ask me about **anything creative! Design, concept, mockups...**
 
 - 📫 How to reach me **raquelmj1995@gmail.com**
 
 - ⚡ Fun fact **One is never alone with a rubber duck.**
+
+I have just finished my 26 days pool in 42 Madrid. It was SUCH an experience! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
