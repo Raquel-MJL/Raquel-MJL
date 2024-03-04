@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning the basics.**
 
-- 🌱 I’m currently learning **C, HTML, CSS, MySQL, TypeSrcipt, JavaScript and Python**
+- 🌱 I’m currently learning **C, HTML, CSS, Angular, MySQL, TypeSrcipt, JavaScript and Python**
 
 - 🤝 I’m looking for help with **searching good sources of information about developement.**
 
