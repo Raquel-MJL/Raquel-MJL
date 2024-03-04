@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **One is never alone with a rubber duck.**
 
-I have just finished my 26 days pool in 42 Madrid. It was SUCH an experience! 
+I have just finished my 26 days pool in 42 Madrid and I´m looking for more knowledge. It was SUCH an experience! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
