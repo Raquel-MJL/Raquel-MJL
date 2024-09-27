@@ -27,5 +27,5 @@ I'm currently at Academia Colón, learning to delve deeper into the most common 
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/raksha_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/raksha_" /></a></p><br><br>
+<p><a href="https://ko-fi.com/raksha_" target="_blank" > <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/raksha_" /></a></p><br><br>
 
