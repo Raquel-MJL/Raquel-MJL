@@ -13,7 +13,9 @@
 
 - ⚡ Fun fact **One is never alone with a rubber duck.**
 
-I have just finished my 26 days pool in 42 Madrid and I´m looking for more knowledge. It was SUCH an experience! 
+A few months ago I finished my 26 days pool in 42 Madrid and I´m looking for more knowledge. It was SUCH an experience! 
+
+I'm currently at Academia Colón, learning to delve deeper into the most common tools in the world of work when programming web applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +27,5 @@ I have just finished my 26 days pool in 42 Madrid and I´m looking for more know
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi.com/raksha_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/raksha_" /></a></p><br><br>
+<p><a href="https://ko-fi.com/raksha_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/raksha_" /></a></p><br><br>
 
