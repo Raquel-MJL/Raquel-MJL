@@ -19,7 +19,7 @@ I'm currently at Academia Colón, learning to delve deeper into the most common 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raquel martínez jiménez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquel martínez jiménez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raquel-mart%C3%ADnez-jim%C3%A9nez-26a2ab172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquel martínez jiménez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
