@@ -28,10 +28,10 @@ function hire(me) {
 <p align="left">
 <a href="https://www.linkedin.com/in/raquel-mart%C3%ADnez-jim%C3%A9nez-26a2ab172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquel martínez jiménez" height="30" width="40" /></a>
 <a href="@roxanne2431" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="roxanne2431" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/500/non_2x/discord-logo-discord-icon-transparent-free-png.png" alt="roxanne2431" width="40" height="40"/>
 </a>
 <a href="mailto:raquelmj1995@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013%29.svg" alt="gmail" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013%29.svg](https://w7.pngwing.com/pngs/712/520/png-transparent-google-mail-gmail-logo-icon.png" alt="gmail" width="40" height="40"/>
 </a>
 
 
