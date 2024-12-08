@@ -27,6 +27,14 @@ function hire(me) {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raquel-mart%C3%ADnez-jim%C3%A9nez-26a2ab172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquel martínez jiménez" height="30" width="40" /></a>
+<a href="@roxanne2431" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="roxanne2431" width="40" height="40"/>
+</a>
+<a href="mailto:raquelmj1995@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gmail" width="40" height="40"/>
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
