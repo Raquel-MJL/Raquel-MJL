@@ -31,7 +31,7 @@ function hire(me) {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="roxanne2431" width="40" height="40"/>
 </a>
 <a href="mailto:raquelmj1995@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="gmail" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282013%29.svg" alt="gmail" width="40" height="40"/>
 </a>
 
 
