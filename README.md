@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning as much as I can.**
 
-- 🌱 I’m currently learning **C, HTML, CSS, Angular, MySQL, TypeSrcipt, JavaScript and Python**
+- 🌱 I’m currently learning **C, HTML, CSS, Angular, MySQL, TypeSrcipt, JavaScript, PHP and Python**
 
 - 🤝 I’m looking for help with **searching good sources of information about developement and technologies.**
 
@@ -13,9 +13,16 @@
 
 - ⚡ Fun fact **One is never alone with a rubber duck.**
 
-A few months ago I finished my 26 days pool in 42 Madrid and I´m looking for more knowledge. It was SUCH an experience! 
+A few months ago I finished my 26 days pool in 42 Madrid, it was SUCH an experience! 
+Now I am taking a 500-hour web application development course at Academia Colón in Madrid that I will finish in February 2025! 
 
-I'm currently at Academia Colón, learning to delve deeper into the most common tools in the world of work when programming web applications.
+function hire(me) {
+    if (interested) {
+        console.log(" Call me!");
+    } else {
+        console.log("Come back later, I will have learned more!"");
+    }
+}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
