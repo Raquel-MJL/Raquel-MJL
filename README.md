@@ -28,13 +28,11 @@ function hire(me) {
 <p align="left">
 <a href="https://www.linkedin.com/in/raquel-mart%C3%ADnez-jim%C3%A9nez-26a2ab172/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raquel martínez jiménez" height="30" width="40" /></a>
 <a href="@roxanne2431" target="_blank">
-  <img src="https://i.pinimg.com/736x/77/27/ab/7727ab48f7dd615e5d0b09f8a7cd43a6.jpg" alt="roxanne2431" width="60" height="40"/>
+  <img src="https://i.pinimg.com/originals/7b/fe/da/7bfedaf2ecd0996d8dea31988dcf013c.png" alt="roxanne2431" width="60" height="40"/>
 </a>
 <a href="mailto:raquelmj1995@gmail.com" target="_blank">
   <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" width="60" height="40"/>
 </a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
