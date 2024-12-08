@@ -13,8 +13,11 @@
 
 - ⚡ Fun fact **One is never alone with a rubber duck.**
 
-A few months ago I finished my 26 days pool in 42 Madrid, it was SUCH an experience! 
-Now I am taking a 500-hour web application development course at Academia Colón in Madrid that I will finish in February 2025! 
+In February 2024, I finished my 26-day pool at 42 Madrid. It was such an intensive experience! I spent that month at Telefónica’s facilities, using the C language to develop native functions and work on various exercises. I dedicated over 200 hours to the program.
+
+I also completed +300 hours front-end course focused on Angular, which I finished in April 2024.
+
+Currently, I am taking a 500-hour web application development course at Academia Colón in Madrid, which I will complete in February 2025!
 
 ```javascript
 function hire(me) {
